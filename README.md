@@ -1,11 +1,11 @@
 # 👋 Hello! I'm Tomas Wielandt
 
-I'm a Full Stack Web Developer specializing in building and designing web applications. I am skilled in JavaScript, HTML, CSS, Node.js, Express.js, MongoDB, React, Tailwind, and Bootstrap. Proactive, reliable, and adaptable to new teams and organizations. I'm eager to continue learning, take on new challenges, and contribute my energy and knowledge to impactful projects.
+I'm a Full Stack Web Developer specializing in building and designing web applications. I am skilled in JavaScript, TypeScript, HTML, CSS, Node.js, Express.js, MongoDB, Firebase-Firestore, React, Next.js, NestJS, Git, Tailwind, Bootstrap and Leaflet. Proactive, reliable, and adaptable to new teams and organizations. I'm eager to continue learning, take on new challenges, and contribute my energy and knowledge to impactful projects.
 
 ## 🛠️ Technical Skills
-- **Frontend:** JavaScript, React, HTML, CSS, Tailwind, Bootstrap
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Frontend:** JavaScript, TypeScript, React, HTML, CSS, Next.js, Tailwind, Bootstrap, Leaflet
+- **Backend:** Node.js, Express.js, NestJS
+- **Database:** MongoDB, Firebase-Firestore
 - **Tools:** Git, GitHub, VSCode
 
 ## 🌱 Currently Learning
